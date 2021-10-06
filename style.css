@@ -1,0 +1,39 @@
+body {
+    background-color: #383a59;
+    color: white;
+    padding: 5%;
+}
+a {
+    color: #8be9fd;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#nacional {
+    font-style: italic;
+}
+.habilidadesum {
+    font-size: 1.5em;
+}
+.habilidadedois {
+    font-size: 1.2em;
+}
+img {
+    float:left;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+.contfoto {
+    height: 260px;
+    position: relative;
+}
+ .contfoto p, .contfoto h3 {
+    position:absolute;
+    left: 250px;
+}
+#descrição {
+    top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
